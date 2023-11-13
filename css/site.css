@@ -1,0 +1,35 @@
+@import url(/css/color.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blog-bg-dark {
+    background-color: var(--blog-bg);
+}
+
+.blog-tx-white {
+    color: white;
+}
+
+.navbar-toggler {
+    color: gray;
+    border: 1px solid gray;
+    opacity: .4;
+}
+
+.nav-link {
+    opacity: .7;
+}
+
+.nav-link:hover {
+    color: white;
+    opacity: 1;
+}
+
+.card-img-top {
+    height: 35vh;
+    object-fit: cover;
+}
