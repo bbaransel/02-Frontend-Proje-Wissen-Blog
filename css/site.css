@@ -21,12 +21,12 @@
 }
 
 .nav-link {
-    opacity: .7;
+    opacity: .4;
 }
 
 .nav-link:hover {
     color: white;
-    opacity: 1;
+    opacity: .7;
 }
 
 .card-img-top {
