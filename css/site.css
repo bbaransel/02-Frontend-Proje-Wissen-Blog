@@ -14,21 +14,6 @@
     color: white;
 }
 
-.navbar-toggler {
-    color: gray;
-    border: 1px solid gray;
-    opacity: .4;
-}
-
-.nav-link {
-    opacity: .4;
-}
-
-.nav-link:hover {
-    color: white;
-    opacity: .7;
-}
-
 .card-img-top {
     height: 35vh;
     object-fit: cover;
